@@ -69,7 +69,7 @@ h1 {
     background-color: var(--Bright-orange);
     height: 450px;
     width: 320px;
-    padding: 3em;
+    padding: 3em 4em;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
