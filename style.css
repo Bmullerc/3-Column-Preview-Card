@@ -68,8 +68,8 @@ h1 {
 .card {
     background-color: var(--Bright-orange);
     height: 450px;
-    width: 320px;
-    padding: 3em 4em;
+    width: 300px;
+    padding: 3em 3em;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -119,7 +119,8 @@ h1 {
     border: none;
     border-radius: 250px;
     font-family: 'Lexend Deca', sans-serif;
-    font-size: 16px;
+    font-size: 15px;
+    margin-top: 4em;
 }
 
 .btn:hover {
