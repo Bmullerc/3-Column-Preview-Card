@@ -22,7 +22,7 @@ Your users should be able to:
 
 ### Links
 
-- Live Site URL: [https://3-columns-previewcard.netlify.app/](My solution Live Site)
+- Live Site URL: [https://3-columns-previewcard.netlify.app/]
 
 ## My process
 
